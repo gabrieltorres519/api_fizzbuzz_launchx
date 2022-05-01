@@ -4,7 +4,8 @@
   "description": "creacion_api_endpoints_con_logica_de_negocio",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/.bin/test"
+    "test": "node ./node_modules/.bin/test",
+    "server": "node ./lib/server.js"
   },
   "repository": {
     "type": "git",
